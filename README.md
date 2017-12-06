@@ -1,4 +1,4 @@
-# Fixed wing aircraft with stm32f103c8
+# Fixed wing aircraft with STMF103C8
 
 The project was built by Keil MKD5 and STM32CubeMX.
 
